@@ -68,6 +68,6 @@ Kami membuka kesempatan bagi siapa pun untuk berkontribusi! Jika Anda punya ide 
 ## 📜 Lisensi
 GitClone adalah proyek open-source dan bebas untuk digunakan serta dimodifikasi sesuai kebutuhan Anda.  
 
-**👨‍💻 Developer:** - [Deku](https://github.com/Dekurity) - Pemilik Repository 
+**👨‍💻 Developer:**  [Dekurity](https://github.com/Dekurity) 
 🎉 Terima kasih telah menggunakan GitClone! Jangan lupa berbagi jika bermanfaat! 😃
 
