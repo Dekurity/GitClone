@@ -27,7 +27,7 @@ Jika Git belum terinstal, Anda bisa mengunduhnya di [git-scm.com](https://git-sc
 ## 🚀 Cara Menggunakan
 1️⃣ Jalankan skrip dengan perintah berikut:
    ```sh
-   python gitclone.py
+   python GitClone.py
    ```
 2️⃣ Masukkan username GitHub yang ingin Anda lihat.  
 3️⃣ Pilih repository yang ingin dikloning dengan mengetikkan nama dari daftar yang tersedia.  
